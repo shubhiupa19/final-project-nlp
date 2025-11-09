@@ -1,0 +1,4 @@
+data/song_lyrics.csv
+*.zip
+*.ipynb_checkpoints
+__pycache__/
