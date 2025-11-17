@@ -27,5 +27,11 @@ Document ambiguous lines where annotators disagree or are unsure. We'll discuss 
 
 ---
 
+### Stay - Line 13
+**Line**: "Something in the way you move"
+**Annotator**: Shubhi
+**Tentative label**: 0
+**Reasoning**: Could be ending the idea of previous line of : "Not really sure how to feel about it", but also isn't a sentence ending in itself
+
 ## Resolved Patterns
 (After group discussion, move resolved cases here with final decision)

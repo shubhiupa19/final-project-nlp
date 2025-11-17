@@ -6,7 +6,7 @@ A *sentence boundary* (`1`) marks the end of a **complete idea as expressed in t
 If the line continues the same idea into the next line, mark it as `0`.  
 If the line feels lyrically complete, mark it as `1`.
 
-> **We annotate lyrical completeness, not grammatical correctness.**
+> **Annotate lyrical completeness, not grammatical correctness.**
 
 ---
 
